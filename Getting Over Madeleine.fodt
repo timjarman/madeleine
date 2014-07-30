@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:initial-creator>tim</meta:initial-creator><dc:creator>Tim Jarman</dc:creator><meta:editing-cycles>172</meta:editing-cycles><meta:print-date>2012-01-07T16:45:00</meta:print-date><meta:creation-date>2012-01-09T14:42:00</meta:creation-date><dc:date>2014-07-29T03:33:34</dc:date><meta:editing-duration>P3DT2H30M51S</meta:editing-duration><meta:generator>LibreOffice/3.5$Linux_x86 LibreOffice_project/350m1$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="186" meta:paragraph-count="2793" meta:word-count="63931" meta:character-count="344385" meta:non-whitespace-character-count="282444"/><meta:user-defined meta:name="AppVersion">14.0000</meta:user-defined><meta:user-defined meta:name="DocSecurity" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="HyperlinksChanged" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="LinksUpToDate" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ScaleCrop" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ShareDoc" meta:value-type="boolean">false</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal" xlink:href=""/></office:meta>
+ <office:meta><meta:initial-creator>tim</meta:initial-creator><dc:creator>Tim Jarman</dc:creator><meta:editing-cycles>180</meta:editing-cycles><meta:print-date>2012-01-07T16:45:00</meta:print-date><meta:creation-date>2012-01-09T14:42:00</meta:creation-date><dc:date>2014-07-30T22:11:32</dc:date><meta:editing-duration>P3DT4H57M23S</meta:editing-duration><meta:generator>LibreOffice/3.5$Linux_x86 LibreOffice_project/350m1$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="186" meta:paragraph-count="2793" meta:word-count="63935" meta:character-count="344405" meta:non-whitespace-character-count="282462"/><meta:user-defined meta:name="AppVersion">14.0000</meta:user-defined><meta:user-defined meta:name="DocSecurity" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="HyperlinksChanged" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="LinksUpToDate" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ScaleCrop" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ShareDoc" meta:value-type="boolean">false</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal" xlink:href=""/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="int">4547847</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="int">5599502</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="int">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="int">23142</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="int">11337</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="int">9105</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="int">4545790</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="int">7962</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="int">5481809</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="int">4547847</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="int">5599502</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="int">23140</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="int">4559182</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="int">5610837</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">3</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -483,7 +483,7 @@
   <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L9"/>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2"/>
   <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Chapter_20_heading" style:master-page-name="First_20_Page">
    <style:paragraph-properties style:page-number="auto"/>
   </style:style>
@@ -703,370 +703,6 @@
     </style:list-level-properties>
    </text:list-level-style-number>
   </text:list-style>
-  <text:list-style style:name="L3">
-   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-  </text:list-style>
-  <text:list-style style:name="L4">
-   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-  </text:list-style>
-  <text:list-style style:name="L5">
-   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-  </text:list-style>
-  <text:list-style style:name="L6">
-   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-  </text:list-style>
-  <text:list-style style:name="L7">
-   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-  </text:list-style>
-  <text:list-style style:name="L8">
-   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-  </text:list-style>
-  <text:list-style style:name="L9">
-   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-  </text:list-style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2.54cm" fo:margin-bottom="1.249cm" fo:margin-left="2.54cm" fo:margin-right="2.54cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="40" style:layout-grid-base-height="0.423cm" style:layout-grid-ruby-height="0.212cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm">
     <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
@@ -1092,7 +728,7 @@
     <text:p text:style-name="Header"/>
    </style:header>
    <style:footer>
-    <text:p text:style-name="Footer"><text:span text:style-name="T1">Getting Over Madeleine<text:tab/><text:tab/>Page </text:span><text:span text:style-name="T1"><text:page-number text:select-page="current">151</text:page-number></text:span><text:span text:style-name="T1"> of </text:span><text:span text:style-name="T1"><text:page-count>186</text:page-count></text:span></text:p>
+    <text:p text:style-name="Footer"><text:span text:style-name="T1">Getting Over Madeleine<text:tab/><text:tab/>Page </text:span><text:span text:style-name="T1"><text:page-number text:select-page="current">186</text:page-number></text:span><text:span text:style-name="T1"> of </text:span><text:span text:style-name="T1"><text:page-count>186</text:page-count></text:span></text:p>
    </style:footer>
   </style:master-page>
   <style:master-page style:name="First_20_Page" style:display-name="First Page" style:page-layout-name="pm2" style:next-style-name="Standard"/>
@@ -1107,7 +743,7 @@
    </text:sequence-decls>
    <text:p text:style-name="P13">Getting Over Madeleine</text:p>
    <text:p text:style-name="Subtitle">A love story by T. M. Jarman</text:p>
-   <text:p text:style-name="Standard"><text:word-count>63931</text:word-count><text:bookmark text:name="_GoBack"/> words</text:p>
+   <text:p text:style-name="Standard"><text:word-count>63935</text:word-count><text:bookmark text:name="_GoBack"/> words</text:p>
    <text:p text:style-name="P1">Copyright <text:span text:style-name="T4">©</text:span> 2011-2014 T. M. Jarman. All rights reserved.</text:p>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="P5">Dedication</text:p>
@@ -1842,7 +1478,7 @@
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Well, you know, we&apos;re all Europeans now, and all that. And I did think I might go there on holiday perhaps.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:soft-page-break/><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Well, </text:span></text:span><text:span text:style-name="Font_20_Style36"><text:span text:style-name="T8">if </text:span></text:span><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">your father can find it, and you know what he&apos;s like, dear, but we&apos;ll send it straight over.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Thanks very much.&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;It&apos;s no trouble.&quot; Well, it was no trouble for </text:span></text:span><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T10">her</text:span></text:span><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">; she wouldn&apos;t be the one dispatched to the attic. &quot;Everything all right?&quot; </text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;It&apos;s no trouble.&quot; Well, it was no trouble for </text:span></text:span><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T10">her</text:span></text:span><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">; she wouldn&apos;t be the one grovelling through a dusty attic. &quot;Everything all right?&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Yes, yes, everything&apos;s fine.&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Well, keep in touch, darling.&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;I will.&quot;</text:span></text:span></text:p>
@@ -2273,7 +1909,7 @@
    <text:p text:style-name="Letter"><text:span text:style-name="Font_20_Style44"><text:span text:style-name="T21"/></text:span></text:p>
    <text:p text:style-name="Letter"><text:span text:style-name="Font_20_Style44"><text:span text:style-name="T7">Michel,</text:span></text:span></text:p>
    <text:p text:style-name="Letter"><text:span text:style-name="Font_20_Style44"><text:span text:style-name="T7">Still no word from you: I don&apos;t know if you&apos;re alive or dead. Why are you pushing me away from you like this? What have I done? <text:s/>Every night I pray to God and find no answer.</text:span></text:span></text:p>
-   <text:list xml:id="list971923151" text:style-name="L1">
+   <text:list xml:id="list1812389229" text:style-name="L1">
     <text:list-item>
      <text:p text:style-name="P14"><text:span text:style-name="Font_20_Style44"><text:span text:style-name="T7">If you don&apos;t come home soon I am afraid of what may happen. <text:s/>I have only so much strength. I know you are on business but there are some things more important than that. <text:s/>If you can&apos;t come home, at least call. Michel, do I have to beg for your love? Very well: I beg you.</text:span></text:span></text:p>
     </text:list-item>
@@ -2916,7 +2552,7 @@
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;That&apos;s not the point. It&apos;s the principle of the thing. If you&apos;re going to dump someone you should do it face to face if you can, or at least phone them.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;Well, if you insist I&apos;ll phone her. But I won&apos;t enjoy it.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;Who said anything about enjoying it? These things just have to be done sometimes.&quot;</text:span></text:span></text:p>
-   <text:list xml:id="list305116648" text:style-name="L9">
+   <text:list xml:id="list2043936974" text:style-name="L2">
     <text:list-item>
      <text:p text:style-name="P12"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">Reluctantly Tom agreed. </text:span></text:span><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T27">The trouble with Jane</text:span></text:span><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">, he thought,</text:span></text:span><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T27"> is that she won&apos;t let you get away with anything</text:span></text:span><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">. In theory this was one of her good points. Well: if he had enough to drink first even Anna could be faced. And Jane was right: it had to be done.</text:span></text:span></text:p>
     </text:list-item>
@@ -3459,7 +3095,7 @@
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;That&apos;s putting it mildly.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;Obviously I haven&apos;t examined you, and I don&apos;t have your notes, but I don&apos;t see there&apos;s any medical reason why you shouldn&apos;t have a termination if that&apos;s what you want. Of course your own doctor will have to check that out before you can go ahead. Legally the position is that it&apos;s your body and your decision, so there&apos;s nothing Michael could do to stop it unless he can persuade a judge to grant him an injunction. You&apos;d need to get a lawyer&apos;s opinion on that, but my guess is he wouldn&apos;t get very far if he tried that one.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;Right.&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;But of course you have to consider the impact on your marriage.&quot; </text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;But of course you have to consider the impact on your relationship.&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;Tell me about it.&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;And the impact on you.&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;On me?&quot;</text:span></text:span></text:p>
@@ -3467,9 +3103,9 @@
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;Not me,&quot; Jane said grimly. </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;You&apos;d be surprised. I did, once.&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;You did?&quot; It had never really occurred to Jane that doctors had problems too.</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:soft-page-break/><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;It happened in my second year at medical school. Being a doctor was all I&apos;d ever wanted to do, since I was a little kid. The competition to get a place at medical school is insane, and once you&apos;re there the pressure is incredible. And I don&apos;t care what they say, it&apos;s still harder for women than it is for men. So there I was, working like a mad woman, hardly going out at all, and then I met this guy — his name was Fabrizio. Italian, over here to learn the language. Very dishy, dark hair, wonderful eyes, you know the type of thing. Anyway, he was just someone I used to see around now and again, it wasn&apos;t a relationship or anything like that, and then one night we were at a party and, well, nature took its course.&quot;</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:soft-page-break/><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;It happened in my second year at medical school. Being a doctor is all I&apos;ve ever wanted to do, since I was a little kid. The competition to get a place at medical school is insane, and once you&apos;re there the pressure is incredible. And I don&apos;t care what they say, it&apos;s still harder for women than it is for men. So there I was, working like a mad woman, hardly going out at all, and then I met this guy — his name was Fabrizio. Italian, over here to learn the language. Very dishy, dark hair, wonderful eyes, you know the type of thing. Anyway, he was just someone I used to see around now and again, it wasn&apos;t a relationship or anything like that, and then one night we were at a party and we had a few drinks and, well, nature took its course.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;Crikey.&quot; Jane felt that some sort of comment was required.</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;So anyway, the next morning I was in a total panic. I did one of those home pregnancy tests and it was positive. There was absolutely no way I was going to drop out of the course, and anyway Fabrizio would have been over the hills and far away if I&apos;d ever told him. So: I borrowed the money from a friend, booked myself into a private clinic and had a termination.&quot;</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;So anyway, the next morning I&apos;m in a total panic. I did one of those home pregnancy tests and it was positive. There was absolutely no way I was going to drop out of the course, and anyway Fabrizio would have been over the hills and far away if I&apos;d ever told him. So: I borrowed the money from a friend, booked myself into a private clinic and had a termination.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;What was it like?&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;Well, it&apos;s a straightforward enough procedure if it&apos;s early in the pregnancy. In my case it took me a little while to raise the money but I was only six or seven weeks gone. You&apos;re just in there overnight and you don&apos;t know much about it: you go to sleep pregnant, you wake up and you&apos;re not pregnant any more. Anyway, I thought that would be the end of it, but I was wrong.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;What happened?&quot;</text:span></text:span></text:p>
@@ -3477,7 +3113,7 @@
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;Blimey.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;Obviously I got myself together in the end, made it through the course and here I am. But I&apos;d never want to go through it again.&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;I can imagine.&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;And I don&apos;t want you to go through it either, Jane.&quot; Helen sat forward in her chair. &quot;I know we don&apos;t know each other very well, but I&apos;ve heard a lot about you from Tom. He&apos;s very fond of you, you know. And in any case I wouldn&apos;t wish it on my worst enemy. I&apos;m not saying </text:span></text:span><text:soft-page-break/><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">you shouldn&apos;t have an abortion: it isn&apos;t for me to tell you what you should do. But I just want you to know how it affected me.&quot;</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;And I don&apos;t want you to go through it either, Jane.&quot; Helen sat forward in her chair. &quot;I know we don&apos;t know each other very well, but I&apos;ve heard a lot about you from Tom. He&apos;s very </text:span></text:span><text:soft-page-break/><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">fond of you, you know. And in any case I wouldn&apos;t wish it on my worst enemy. I&apos;m not saying you shouldn&apos;t have an abortion: it isn&apos;t for me to tell you what you should do or not do. But I just want you to know how it affected me.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;How do you feel about children now?&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;Same as Tom: we&apos;re going to have loads.&quot; Helen smiled broadly. &quot;I&apos;m a very lucky woman.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;But did you always want kids?&quot;</text:span></text:span></text:p>
@@ -3501,7 +3137,7 @@
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">It was growing dark when he left the church and stole back like a thief to the flat where Jane would be arriving any minute. He felt that something had been set in order that had been waiting a long time. His faith was no more or less than it had been, but he had paid at last a debt that he had owed to God, to Madeleine and to their daughter. It was a good feeling.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25"/></text:span></text:p>
    <text:p text:style-name="P5">20</text:p>
-   <text:p text:style-name="Opening_20_para"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">In the normal course of things, Jane would have confided her troubles to Marcie. However, after her behaviour at the reception she was no longer sure she trusted her friend&apos;s judgement. The great thing about Marcie had always been that you could always rely on her to be completely unsentimental. But crying at a wedding? Next thing she&apos;d be leaning over prams making cooing noises. No, Marcie was a broken reed.</text:span></text:span></text:p>
+   <text:p text:style-name="Opening_20_para"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">In the normal course of things, Jane would have confided her troubles to Marcie. However, after her behaviour at the reception she was no longer sure she could trust her friend&apos;s judgement. The great thing about Marcie had always been that you could always rely on her to be completely unsentimental. But crying at a wedding? Next thing she&apos;d be leaning over a pushchair making cooing noises. No, Marcie was a broken reed.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">Obviously her parents were not to know. Her father would worry himself sick, and as for her mother — well, it didn&apos;t bear thinking about. She&apos;d probably invade Poland. Jane felt she needed a more detached view. An idea occurred to her that was so far-fetched that for a long time she dismissed it out of hand, but it refused to go away and so eventually she gave in, thinking that it was completely insane but it couldn&apos;t hurt.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">It took her a long time to get through, because as she knew from her own experience nobody ever answers the phone in halls of residence, but after what seemed like eternity somebody finally picked up. What was even better was that he was actually in his room.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;Mike? It&apos;s Jane.&quot;</text:span></text:span></text:p>
@@ -3541,7 +3177,7 @@
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">Mike stared morosely at his half-pint of cider. &quot;I&apos;m not sure it&apos;s ethical.&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:soft-page-break/><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;What?&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;You can&apos;t go and do something like that behind Michael&apos;s back. It&apos;s his child as well.&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;It&apos;s my body,&quot; Jane said, feeling she was on solid ground.</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;It&apos;s my body,&quot; Jane said sturdily.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;But it&apos;s about more than that, surely? Isn&apos;t there a question of trust here?&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;What do you mean?&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;Look at it this way. Say we were talking about adultery.&quot; </text:span></text:span></text:p>
@@ -3606,7 +3242,7 @@
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;I know.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">He&apos;d taken his hand away. The sense of abandonment was almost physical. His body was still there in the room but he had withdrawn completely, into a place where she could not follow him. She hadn&apos;t seen him like this for a long time, not since that awful morning at Odile&apos;s. Had she gone through all this only to lose him to Madeleine after all? A dreadful certainty crept over her like death. </text:span></text:span><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T28">He&apos;s holding onto his pain</text:span></text:span><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">, she thought, </text:span></text:span><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T28">as if it were salvation</text:span></text:span><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">. Jane thought of the sun on the graves, on Micheline&apos;s tiny black and gold stone, on the freshly turned earth where they were burying Madeleine. She thought of Madeleine&apos;s eyes. </text:span></text:span><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T27">It&apos;s no use: I can&apos;t compete with a saint, can I? Especially not a dead one</text:span></text:span><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">. It was hopeless: hopeless.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">Silence fell between them like a final curtain.</text:span></text:span></text:p>
-   <text:p text:style-name="Opening_20_para"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">At that precise moment, Tom was doing the washing-up. This in itself would have surprised Michael had he known about it, but he would have been utterly astounded to learn that Tom had also cooked the dinner. True, he was still a beginner at the domestic arts, and he&apos;d managed to bake an immovable layer of charred black rice onto what had been one of Helen&apos;s best saucepans, but love excuses much. She was drying, handing back the occasional item which hadn&apos;t been thoroughly washed with admirable patience. They didn&apos;t often get to spend an evening together because of the hours Helen worked, and although they hadn&apos;t exactly eaten well there was an atmosphere of quiet contentment in their kitchen, small as it was.</text:span></text:span></text:p>
+   <text:p text:style-name="Opening_20_para"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">At that precise moment, Tom was doing the washing-up. This in itself would have surprised Michael had he known about it, but he would have been utterly astounded to learn that Tom had also cooked the dinner. True, he was still a beginner at the domestic arts, and he&apos;d managed to bake an immovable layer of charred black rice onto what had been one of Helen&apos;s best saucepans, but love excuses much. She was drying, handing back the occasional item which hadn&apos;t been thoroughly washed with admirable patience. They didn&apos;t often get to spend an evening together because of the hours Helen worked, and although they hadn&apos;t exactly eaten well there was an atmosphere of quiet contentment in their little kitchen.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;I had another call from Jane,&quot; Helen said conversationally.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;How is she?&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;Worried.&quot;</text:span></text:span></text:p>
@@ -3786,7 +3422,7 @@
    <text:p text:style-name="Standard"><text:soft-page-break/><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;Then you can fuck right off.&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;Michael —&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;Fuck off,&quot; Michael said, quite casually.</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">Tom never did know exactly how he got home that night; but it was a quite different world into which he awoke the next morning. The physical pain, though acute, was nothing: for he knew that an important part of his life had gone forever.</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">Tom never did know exactly how he got home that night; but it was a quite different world into which he awoke the next morning. The physical pain, though acute, was nothing: for he knew that an important part of his life had gone.</text:span></text:span></text:p>
    <text:p text:style-name="P2"/>
    <text:p text:style-name="P5">22</text:p>
    <text:p text:style-name="Opening_20_para"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">Jane was sure she had everything she was supposed to have. She had the little plastic vial full of pale golden liquid; she had her little list of pertinent questions. The receptionist from Alpha Centauri waved her through, and she was back again across the desk from Dr Brannigan. There was some alchemy with the specimen bottle and the doctor nodded wisely.</text:span></text:span></text:p>
@@ -3876,7 +3512,7 @@
    <text:p text:style-name="Standard"><text:soft-page-break/><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">They debated several possibilities, all of whom were either too far away or on holiday or had too small a car. By now Michael was getting close to the brink of complete panic and his mind was a total blank, so it was Jane who said the unsayable.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;What about Tom? He&apos;s got a company BMW and he&apos;s only down the road.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;I can&apos;t ask Tom.&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;All right then, I&apos;ll ask him.&quot;</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;All right then, I will.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">She took the telephone from his unresisting fingers and dialled. A sleepy male voice answered.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;Yup?&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;It&apos;s me,&quot; she said.</text:span></text:span></text:p>
@@ -3897,7 +3533,7 @@
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">She was so dizzy with tiredness and the drugs that it was hard to grasp at first that the pink slippery bawling thing they put into her arms was really a baby. She looked down at him in bemusement. He was like a tiny version of Winston Churchill after a hard night. After a while he stopped bawling, which was a great improvement, although she reminded herself that it was only temporary. Michael was sitting on the edge of the bed with the widest smile she&apos;d ever seen.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;Can I hold him?&quot; he asked.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;Is the Pope Catholic?&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">Gingerly she passed over the tiny bundle and Michael took him in his arms. She still couldn&apos;t believe that anything so small could have caused such an enormous bulge. Looking at the two of them, father and son, she realised with something akin to shock that for the first time in years he was truly, blissfully happy. Indeed, she rather suspected that when she&apos;d had a bit of a rest she might even be happy herself. Then their son started to bawl again and she closed her eyes. Madeleine had been right: life was never going to be the same again.</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">Gingerly she passed over the tiny bundle and Michael took him in his arms. She still couldn&apos;t believe that anything so small could have caused such an enormous bulge. Looking at the two of them, father and son, she realised with something akin to shock that for the first time in years her husband was truly, blissfully happy. Indeed, she rather suspected that when she&apos;d had a bit of a rest she might even be happy herself. Then their son started to bawl again and she closed her eyes. Madeleine had been right: life was never going to be the same again.</text:span></text:span></text:p>
    <text:p text:style-name="P5">Epilogue</text:p>
    <text:p text:style-name="Chapter_20_subheading">Normandy, 2008</text:p>
    <text:p text:style-name="Opening_20_para">Jane’s mobile phone whistled a self-important little tune. It was only another fatuous text from her service provider welcoming her, for the third time, to France. It did at least provide a momentary distraction from the terror, even after all these years, of being driven by Michael; especially when it was on what she knew in her soul to be the wrong side of the road.</text:p>
