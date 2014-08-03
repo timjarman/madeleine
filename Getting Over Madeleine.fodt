@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:initial-creator>tim</meta:initial-creator><dc:creator>Tim Jarman</dc:creator><meta:editing-cycles>203</meta:editing-cycles><meta:print-date>2012-01-07T16:45:00</meta:print-date><meta:creation-date>2012-01-09T14:42:00</meta:creation-date><dc:date>2014-08-03T15:51:46</dc:date><meta:editing-duration>P3DT9H45M7S</meta:editing-duration><meta:generator>LibreOffice/3.5$Linux_x86 LibreOffice_project/350m1$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="185" meta:paragraph-count="2792" meta:word-count="64064" meta:character-count="345115" meta:non-whitespace-character-count="283044"/><meta:user-defined meta:name="AppVersion">14.0000</meta:user-defined><meta:user-defined meta:name="DocSecurity" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="HyperlinksChanged" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="LinksUpToDate" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ScaleCrop" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ShareDoc" meta:value-type="boolean">false</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal" xlink:href=""/></office:meta>
+ <office:meta><meta:initial-creator>tim</meta:initial-creator><dc:creator>Tim Jarman</dc:creator><meta:editing-cycles>207</meta:editing-cycles><meta:print-date>2012-01-07T16:45:00</meta:print-date><meta:creation-date>2012-01-09T14:42:00</meta:creation-date><dc:date>2014-08-03T23:41:46</dc:date><meta:editing-duration>P3DT11H56M36S</meta:editing-duration><meta:generator>LibreOffice/3.5$Linux_x86 LibreOffice_project/350m1$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="185" meta:paragraph-count="2779" meta:word-count="64225" meta:character-count="346009" meta:non-whitespace-character-count="283766"/><meta:user-defined meta:name="AppVersion">14.0000</meta:user-defined><meta:user-defined meta:name="DocSecurity" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="HyperlinksChanged" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="LinksUpToDate" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ScaleCrop" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ShareDoc" meta:value-type="boolean">false</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal" xlink:href=""/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="int">555389</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="int">919690</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="int">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="int">23142</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="int">11335</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="int">13384</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="int">558100</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="int">17784</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="int">827112</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="int">555389</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="int">919690</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="int">23140</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="int">566722</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="int">931023</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">3</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -106,6 +106,7 @@
  </office:scripts>
  <office:font-face-decls>
   <style:font-face style:name="Lohit Hindi1" svg:font-family="&apos;Lohit Hindi&apos;"/>
+  <style:font-face style:name="OpenSymbol" svg:font-family="OpenSymbol"/>
   <style:font-face style:name="Cambria" svg:font-family="Cambria" style:font-family-generic="roman"/>
   <style:font-face style:name="Calibri" svg:font-family="Calibri" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Cambria1" svg:font-family="Cambria" style:font-family-generic="roman" style:font-pitch="variable"/>
@@ -389,6 +390,9 @@
    <style:text-properties fo:color="#808080"/>
   </style:style>
   <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
+   <style:text-properties style:font-name="OpenSymbol" style:font-name-asian="OpenSymbol" style:font-name-complex="OpenSymbol"/>
+  </style:style>
   <text:outline-style style:name="Outline">
    <text:outline-level-style text:level="1" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
@@ -484,10 +488,13 @@
    <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
   <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2"/>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Chapter_20_heading" style:master-page-name="First_20_Page">
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Chapter_20_heading" style:master-page-name="First_20_Page">
    <style:paragraph-properties style:page-number="auto"/>
   </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Letter" style:list-style-name="L1"/>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Letter" style:list-style-name="L1"/>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-style="italic" style:font-style-asian="italic"/>
   </style:style>
@@ -703,6 +710,110 @@
     </style:list-level-properties>
    </text:list-level-style-number>
   </text:list-style>
+  <text:list-style style:name="L3">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" fo:text-indent="-0.635cm" fo:margin-left="-0.635cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" fo:text-indent="-0.635cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.635cm" fo:text-indent="-0.635cm" fo:margin-left="0.635cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L4">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+  </text:list-style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2.54cm" fo:margin-bottom="1.249cm" fo:margin-left="2.54cm" fo:margin-right="2.54cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="40" style:layout-grid-base-height="0.423cm" style:layout-grid-ruby-height="0.212cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm">
     <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
@@ -728,7 +839,7 @@
     <text:p text:style-name="Header"/>
    </style:header>
    <style:footer>
-    <text:p text:style-name="Footer"><text:span text:style-name="T1">Getting Over Madeleine<text:tab/><text:tab/>Page </text:span><text:span text:style-name="T1"><text:page-number text:select-page="current">19</text:page-number></text:span><text:span text:style-name="T1"> of </text:span><text:span text:style-name="T1"><text:page-count>185</text:page-count></text:span></text:p>
+    <text:p text:style-name="Footer"><text:span text:style-name="T1">Getting Over Madeleine<text:tab/><text:tab/>Page </text:span><text:span text:style-name="T1"><text:page-number text:select-page="current">31</text:page-number></text:span><text:span text:style-name="T1"> of </text:span><text:span text:style-name="T1"><text:page-count>185</text:page-count></text:span></text:p>
    </style:footer>
   </style:master-page>
   <style:master-page style:name="First_20_Page" style:display-name="First Page" style:page-layout-name="pm2" style:next-style-name="Standard"/>
@@ -741,9 +852,9 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
    </text:sequence-decls>
-   <text:p text:style-name="P13">Getting Over Madeleine</text:p>
+   <text:p text:style-name="P14">Getting Over Madeleine</text:p>
    <text:p text:style-name="Subtitle">A love story by T. M. Jarman</text:p>
-   <text:p text:style-name="Standard"><text:word-count>64064</text:word-count><text:bookmark text:name="_GoBack"/> words</text:p>
+   <text:p text:style-name="Standard"><text:word-count>64225</text:word-count><text:bookmark text:name="_GoBack"/> words</text:p>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard"/>
@@ -773,10 +884,11 @@
    <text:p text:style-name="P11">Jane and two other girls occupied the first floor of a large and presumably once desirable house in the centre of Camden. Donna was the friend of a friend; Sue was the result of a postcard in a newsagent&apos;s window. The rent included a fridge that should have been in a museum, a temperamental and sometimes terrifying gas cooker, and a selection of Bakelite electrical fittings connected together in ways which Jane was too nervous to investigate. There was also a small lounge, mostly occupied by a decrepit three-piece suite and a TV set of 1970s vintage. Luxury it was not, but you could live there.</text:p>
    <text:p text:style-name="P11"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">Jane&apos;s room was the largest, but it was also at the front so you got the noise of the traffic. After a while this had ceased to bother her. What was more of an issue at this time of year was the draughtiness of the ancient sash windows which, combined with its cavernous height, made the room impossible to keep warm. The translucent blue curtains billowed in the slightest breeze. There was a night storage heater directly under the window, which may have technically made some slight difference to the average temperature of Camden as a whole but never had much impact on the room itself. It was a pleasant enough room apart from that, so long as you didn&apos;t pay too much attention to the frayed carpet or the peeling pink wallpaper or the slowly disintegrating Artex ceiling. At least it was furnished. She even had a double bed, not that she got much practical advantage from it.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">By the time she reached the bus-stop it was definitely raining, a fine determined rain that seemed as if it might last for years. Her glasses fogged up on the bus. She wanted a cigarette but the New Year&apos;s resolutions were still just about holding up somehow. Well, that one was anyway. The hangover wasn&apos;t too bad considering, and she managed not to throw up </text:span></text:span><text:soft-page-break/><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">over the man next to her as the bus jerked and jolted its way across London. She wasn&apos;t even all that late, for a Monday.</text:span></text:span></text:p>
+   <text:p text:style-name="P13"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">This was not the way her life was supposed to have turned out. Jane&apos;s degree had been in Art History, and when she moved to London she promised herself she would spend every weekend looking round the endless galleries and museums of the capital. Every weekend had become once or twice a month, then once every couple of months, until nowadays art was <text:s/>just something she read about in </text:span></text:span><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T11">Time Out</text:span></text:span><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8"> and never got around to seeing. Being single definitely didn&apos;t help.</text:span></text:span></text:p>
    <text:p text:style-name="P11"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">Jane worked in one of the several London offices of a large multinational which liked to describe itself as a “solutions provider.” What this amounted to was sending an army of plausible men in expensive suits to the corporate headquarters of other large companies, in order to persuade those companies to pay for an even larger army of younger men in much cheaper suits to write computer software. This was supposed to solve some problem or other, the exact details of which always seemed to be rather vague. As part of the package, the lucky client would be provided with several stout ring-binders crammed with unhelpful verbiage. Jane&apos;s part in all this, together with another small army of staff, was to create this so-called “User Documentation.” She hoped devoutly that no actual user of the software was ever required to wade through the stuff. Even the small parts of it written in comprehensible English were usually out of date or just plain wrong. Luckily the authorship of these documents was strictly anonymous, so there was little chance of some crazed corporate peon exacting a dreadful revenge. But had one ever done so, Jane would have had to acknowledge the justice of it.</text:span></text:span></text:p>
    <text:p text:style-name="P11"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">The worst thing about the job, apart from the inescapable fact that she was expected <text:s/>to turn up and actually do it five days a week, was that nearly all of her family, friends and acquaintances were convinced that because she worked for a software company she somehow knew everything there was to know about computers, and in particular how to fix theirs whenever it had gone wrong. Her brother was the one oasis of sanity in this regard, which was unusual for him as he was generally assumed by his loved ones to be a borderline lunatic. This is of course often the case with the extravagantly gifted.</text:span></text:span></text:p>
-   <text:p text:style-name="P11"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">The office she worked in had been newly built when she had first started there two years before, but even then it was already shrouded in an essential and eternal drabness. There were grey nylon carpet tiles on the floor, and a similar arrangement on the ceiling relieved only by fluorescent lights in a chequerboard pattern. The large windows were uniformly obscured by grey plastic vertical blinds. The identical desks were of pine, as were the identical sets of drawers; each had an identical dark brown telephone (although hers had never once rung), an identical grey computer, <text:s/>and an identical plastic revolving office chair. Essentially, everything you could see was either grey, beige, brown, or some intermediate shade so nondescript it had no ascertainable name. The desks were arranged in islands of four at regular intervals, with a potted rubber-plant beside every third island. When she looked across the room Jane sometimes thought she could discern the curvature of the Earth. Of course, it was sometimes just that she&apos;d been drinking.</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">Jane hated the coffee out of the machine but it was slightly less disgusting than the tea. She had extra sugar, or at least she pressed the button for it but there was no discernible difference. Fortunately in the post-Christmas lull there wasn&apos;t too much to do. More coffee. Staring vacantly at the computer screen trying to look alert and intelligent. A limp white roll </text:span></text:span><text:soft-page-break/><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">stuffed with even limper salad, prawn cocktail squirting out onto her lapel, hey it&apos;s lunchtime, only another four hours to go. The headache eased eventually. She could have taken paracetamol, she kept some in her desk, but she&apos;d read something in a magazine about how it could damage your liver and was trying to cut down on her intake. She bought a bottle of mineral water and drank it very slowly. It got darker outside. It was still raining, pattering listlessly against the windows.</text:span></text:span></text:p>
+   <text:p text:style-name="P11"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">The office she worked in had been newly built when she had first started there two years before, but even then it was already shrouded in an essential and eternal drabness. There were grey nylon carpet tiles on the floor, and a similar arrangement on the ceiling relieved only by fluorescent lights in a chequerboard pattern. The large windows were uniformly obscured by grey plastic vertical blinds. The identical desks were of pine, as were the identical sets of drawers; each had an identical dark brown telephone (although hers had never once rung), an identical grey computer, <text:s/>and an identical plastic revolving office chair. Essentially, everything you could see was either grey, beige, brown, or some intermediate shade so nondescript it had no ascertainable name. The desks were arranged in islands of four at regular intervals, with a potted rubber-plant beside every third island. When she looked </text:span></text:span><text:soft-page-break/><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">across the room Jane sometimes thought she could discern the curvature of the Earth. Of course, it was sometimes just that she&apos;d been drinking.</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">Jane hated the coffee out of the machine but it was slightly less disgusting than the tea. She had extra sugar, or at least she pressed the button for it but there was no discernible difference. Fortunately in the post-Christmas lull there wasn&apos;t too much to do. More coffee. Staring vacantly at the computer screen trying to look alert and intelligent. A limp white roll stuffed with even limper salad, prawn cocktail squirting out onto her lapel, hey it&apos;s lunchtime, only another four hours to go. The headache eased eventually. She could have taken paracetamol, she kept some in her desk, but she&apos;d read something in a magazine about how it could damage your liver and was trying to cut down on her intake. She bought a bottle of mineral water and drank it very slowly. It got darker outside. It was still raining, pattering listlessly against the windows.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Fancy a drink?&quot; That was Marcie, the dark little Welsh girl at the next desk.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Why not?&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">There was a pub called the Queen&apos;s Head they always went to on these occasions, one of those thoroughly kippered Victorian pubs with frosted-glass windows and lots of greasy dark woodwork that could have been mahogany but almost certainly wasn&apos;t. In the week it was generally quiet, and you could talk if you had a mind to. Marcie bought the first round: white wine and soda for Jane, rum and Coke for herself. They didn&apos;t usually go for a drink after work unless it was Friday – well, <text:s/>at least Wednesday - and especially not with a week still to go until pay-day. Jane made the obvious deduction.</text:span></text:span></text:p>
@@ -786,36 +898,33 @@
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Oh, he&apos;s not serious. Usual bollocks about wanting to find himself. I told him, if he wanted to find himself he should look in the bloody phone book.&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Under T for tosser.&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">Marcie shrugged. &quot;He&apos;s not that bad.&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">That didn&apos;t strike Jane as a ringing endorsement of the man who had been The One a few months back, but she let it go.</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;How long do you give him before he comes crawling back?&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8"><text:s/>Marcie gave it some thought. &quot;Friday.&quot;</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">That didn&apos;t strike Jane as a ringing endorsement of the man who had been The One a few months back. She had never understood what Marcie saw in him anyway, but as she had told herself more than once she didn&apos;t have to. She let it go. </text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;I give him till Friday before he comes crawling back,&quot; Marcie declared. </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;No, he&apos;ll be out on the pull Friday. When he doesn&apos;t, he&apos;ll be on the phone Saturday.&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Jane Sharp, you&apos;re a bitter and cynical woman.&quot; </text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:soft-page-break/><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Jane Sharp, you&apos;re a bitter and cynical woman.&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Not cynical. Just single.&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;And bitter. And it&apos;s your birthday next week.&quot; </text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:soft-page-break/><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">Jane was immediately on the defensive. &quot;So? Twenty-five isn&apos;t </text:span></text:span><text:span text:style-name="Font_20_Style36"><text:span text:style-name="T8">old.&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style36"><text:span text:style-name="T8"><text:s/></text:span></text:span><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Older than me,&quot; Marcie said complacently.</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">Jane was immediately on the defensive. &quot;So? Twenty-five isn&apos;t </text:span></text:span><text:span text:style-name="Font_20_Style36"><text:span text:style-name="T8">old.&quot;</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style36"><text:span text:style-name="T8"><text:s/></text:span></text:span><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Older than me,&quot; Marcie said complacently. The age difference between them was in fact barely three months, but Marcie always liked to get the maximum of mileage out of it. Despite herself, Jane rose to the bait.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Are you saying I’m on the shelf? Jesus Christ, you&apos;re worse than my mother.&quot; </text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Only kidding.&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">There was a small silence between them. &quot;Fancy another?&quot;</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">There was a small silence between them. Jane suggested another drink.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">Marcie looked at her watch. &quot;I shouldn&apos;t really.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8"><text:s/>&quot;Never stopped you before.&quot; </text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Same again then.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">When Jane returned from the bar there was a gleeful look on her friend&apos;s face that she knew of old. It usually meant trouble of one sort or another. Accepting the inevitable, she said:</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;What?&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Behind you. Those two blokes at the corner table.&quot; </text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">Marcie leaned forward confidentially. &quot;Behind you. Those two blokes at the corner table.&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;What about them?&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;The tall one fancies you.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;You know a lot about it.&quot; Jane pulled open a packet of crisps and laid it on the table between them.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;I can always tell.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;I&apos;m not even going to look.&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;He&apos;s not bad. The other one&apos;s all right as well.&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Stop looking at them. You&apos;ll give them ideas.&quot;</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;He&apos;s not bad. The other one&apos;s all right as well.&quot; Marcie&apos;s notion of all right was far from dependable, Paul being Exhibit A.</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Stop looking at them. You&apos;ll give them ideas.&quot; The idea Jane was mostly worried about was that being single was the same as being available. She had enough on her plate.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Why not?&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">Jane thought: </text:span></text:span><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T10">I&apos;m knackered, it&apos;s only Monday, there&apos;s prawn cocktail halfway down my blouse, and I&apos;ve got enough problems in my life already.</text:span></text:span><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8"> She said: &quot;I suppose.&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">There was a spotted mirror on the wall in front of her advertising some long defunct brand of whisky. Jane saw in reflection the two men getting up, hesitating. She saw Marcie shift position slightly in her chair. It was inevitable. Marcie was smiling, damn her.</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;I suppose,&quot; Jane said resignedly.</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:soft-page-break/><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">There was a fly-spotted mirror on the wall in front of her advertising some long defunct brand of whisky. Jane saw in reflection the two men getting up, hesitating. She saw Marcie shift position slightly in her chair. It was inevitable. Marcie was smiling, damn her.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Mind if we join you?&quot; said the shorter man. He was fair-haired, stocky, pleasantly-spoken and eminently forgettable.</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:soft-page-break/><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;It&apos;s a free country,&quot; said Marcie.</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;It&apos;s a free country,&quot; said Marcie.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">Stools were dragged across, there were introductions. The fair-haired man said his name was Tom. The other man still hadn&apos;t spoken. He was tall and gangly with untidy dark hair and the air of being about to ask for directions to wherever else he ought to be instead of here.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Haven&apos;t seen you in here before,&quot; said Tom.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;We come in now and then after work. Work together, see.&quot;</text:span></text:span></text:p>
@@ -825,18 +934,18 @@
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;We&apos;ve been here before,&quot; he said. It sounded odd. He had a surprisingly beautiful voice, but she didn&apos;t care for his line in dialogue.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Often come in here myself, &quot;Jane rejoined briskly. </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;No. I mean you and me. We&apos;ve done this before.&quot; </text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Don&apos;t think so.&quot; </text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Don&apos;t think so.&quot; Wearily she hit the ball back over the net.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;I had a dream.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T10">Oh God, we&apos;ve got one here</text:span></text:span><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">. &quot;Funny that, you don&apos;t look like Martin Luther King.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">He seemed to come to. &quot;Sorry, I didn&apos;t mean to come over weird. I just had one of those moments, you know. </text:span></text:span><text:span text:style-name="Font_20_Style36"><text:span text:style-name="T14">Déjà vu</text:span></text:span><text:span text:style-name="Font_20_Style36"><text:span text:style-name="T8">. </text:span></text:span><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">Like I remembered having been here before, like this.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Do you remember what happened next?&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">He looked down. &quot;Sorry, I&apos;m making a prat of myself.&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Yes.&quot; Jane ate the last crisp. &quot;But you could always buy me a drink to make up for it.&quot;</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:soft-page-break/><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Yes.&quot; Jane ate the last crisp. &quot;But you could always buy me a drink to make up for it.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Opening_20_para"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">Seven o&apos;clock the next morning: the alarm clock on the bedside table heralded the same gruesome ritual.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;I can&apos;t believe we did that,&quot; Jane said to Marcie as they shared her paracetamol.</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:soft-page-break/><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Just a drink and a friendly chat, nothing heavy.&quot;</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Just a drink and a friendly chat, nothing heavy.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;That Tom was all over you. Looked heavy to me.&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;I can look after myself.&quot;</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;I can look after myself,&quot; Marcie said with a shrug.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;I&apos;ve noticed.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">In a moment of optimism, Jane had opted for tea. It was still just as awful as the last time she&apos;d tried it.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;And you and Nigel seemed to be getting on all right.&quot;</text:span></text:span></text:p>
@@ -846,22 +955,22 @@
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Must have misheard.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Yes, you and Tom were too wrapped up in each other to notice.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;I&apos;m a single girl,&quot; Marcie said defensively. &quot;No harm in that, is there?&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Wait until Saturday.&quot;</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Just wait until Saturday.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Friday.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Fiver on it.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;You&apos;re on.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Opening_20_para"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">On principle, Jane never answered the phone in her flat: it was never for her, unless it was her mother. Sometimes her flatmates would give her an alibi, if she was feeling particularly down. So when it rang that evening she didn&apos;t even look up from stirring her noodles.</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;It&apos;s for you,&quot; said Donna gaily, putting her head round the door. Donna always sounded chirpy: it was the New Zealand accent that did it. Usually Jane only found it unbearable in the mornings, but she was ready to make an exception tonight.</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:soft-page-break/><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;It&apos;s for you,&quot; said Donna gaily, putting her head round the door. Donna always sounded chirpy: it was the New Zealand accent that did it. Usually Jane only found it unbearable in the mornings, but she was ready to make an exception tonight.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Shit.&quot; Jane took the saucepan off the gas and went out into the drab and draughty hallway. Then she caught Donna&apos;s quizzical eye. Not her mother, then. She took the receiver.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Yes?&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;It&apos;s Michael.&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:soft-page-break/><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">Michael who? Not her brother Michael, wrong voice. </text:span></text:span><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T11">Or did I give my number to that guy? Oh, Christ. I did, didn&apos;t I?</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">Michael who? Not her brother Michael, wrong voice. </text:span></text:span><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T11">Or did I give my number to that guy? Oh, Christ. I did, didn&apos;t I?</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Are you still there?&quot; the voice in her ear said. </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Yes.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;I was wondering.&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Yes?&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Are you busy at the weekend?&quot; </text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Why?&quot;</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Why?&quot; She wished he would get to the point, assuming he had one.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Well, I was wondering,&quot; he said again. &quot;Do you like Chinese food?&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Sometimes.&quot; She thought longingly of the noodles on the stove; she was starving.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Would you like to go out for a meal? You know, a Chinese meal. Maybe at the weekend. If you&apos;re not busy.&quot;</text:span></text:span></text:p>
@@ -871,9 +980,9 @@
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">He explained about the restaurant, which was a new one. Jane had passed it on the bus. They arranged a time and a place to meet. She put the phone down. She was in mild shock.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">Donna was in the kitchen eating rice-cakes. She never seemed to eat anything else; no wonder she looked like an Oxfam poster. This time she was having them with Vegemite. Jane had tried one once and would rather have eaten table-mats.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Anyone I know?&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Just a bloke.&quot; Jane re-heated the noodles; they were almost cooked.</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:soft-page-break/><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Just a bloke.&quot; Jane re-heated the noodles; they were almost cooked.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">Sue came into the kitchen, laden with groceries and gossip. She&apos;d only been living there a couple of months but it already seemed like a lifetime. If they hadn&apos;t been in such a hurry to find a new flatmate, Donna and Jane might well have thought better of Sue. She was certainly very domesticated and almost obsessively tidy; considered as someone prepared to clean the oven she was an undoubted success. It was just that she never shut up. Even as she walked into the room she was already narrating the minutiae of her trip to to the supermarket.</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">This evening, though, Jane was almost grateful. Given a clear field, Donna would have grilled her mercilessly. The flow of superfluous information about two-for-one offers </text:span></text:span><text:soft-page-break/><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">rolled over them like a healing tide, and Jane was able to eat her noodles, if not in peace, at least in safety.</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">This evening, though, Jane was almost grateful. Given a clear field, Donna would have grilled her mercilessly. The flow of superfluous information about two-for-one offers rolled over them like a healing tide, and Jane was able to eat her noodles, if not in peace, at least in safety.</text:span></text:span></text:p>
    <text:p text:style-name="Opening_20_para"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">Although it was eight o&apos;clock, there was only one other couple in the restaurant. Jane felt very exposed. She hadn&apos;t enlarged on her explanation to Donna, in spite of her permanently raised eyebrows. She hadn&apos;t even mentioned it to Marcie. Now she was here she felt desperately shy. Michael wasn&apos;t helping either: he kept looking at her.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">She tried making conversation but it was uphill work. When she asked what he did for a living he said that he had an aunt.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;I didn&apos;t know that was a career choice,&quot; she said.</text:span></text:span></text:p>
@@ -883,15 +992,11 @@
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;What for?&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Coming out. You know.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;I wasn&apos;t doing anything.&quot; </text:span></text:span><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T10">I wish to God I had been</text:span></text:span><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">, she thought.</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;I was surprised. I thought you&apos;d be busy.&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Why?&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Girl like you. Saturday night.”</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;I was surprised. I thought you&apos;d be busy. You know, a girl like you. Saturday night.”</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">Jane tried to interest herself in a spring roll, without success. &quot;I don&apos;t go out much, really.&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Would you like to?&quot; </text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Like to what?&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;You know. Go out. More. With me.&quot;</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:soft-page-break/><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Would you like to? You know. Go out. More. With me.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">Jane thought of her dreary flat and the dross on television. &quot;Maybe.&quot; </text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:soft-page-break/><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Are you going to eat that?&quot; </text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Are you going to eat that?&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;I&apos;m not hungry.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Neither am I. Shall we go and get a drink somewhere?&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Why not?&quot;</text:span></text:span></text:p>
@@ -911,11 +1016,9 @@
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Why are you so interested in me?&quot; she demanded.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">He looked down. &quot;You remind me of someone.&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Let me guess: Michelle Pfeiffer.&quot; </text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Don&apos;t make fun of me.&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:soft-page-break/><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;All right. Only kidding.&quot; She looked him over. If he calmed down he wouldn&apos;t be so bad really. Jane had learned to be guarded in her responses to the opposite sex: it didn&apos;t do to set her sights too high. At least he wasn&apos;t completely insensitive. And he&apos;d paid for the dinner, such as it was.</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;It&apos;s my birthday on Wednesday,&quot; she said conversationally.</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Is it?&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Guess how old I am.&quot;</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:soft-page-break/><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Don&apos;t make fun of me.&quot;</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;All right. Only kidding.&quot; She looked him over. If he calmed down he wouldn&apos;t be so bad really. Jane had learned to be guarded in her responses to the opposite sex: it didn&apos;t do to set her sights too high. At least he wasn&apos;t completely insensitive. And he&apos;d paid for the dinner, such as it was.</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;It&apos;s my birthday on Wednesday,&quot; she said conversationally. &quot;Guess how old I am.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;You&apos;ll be twenty-five,&quot; he said without a moment&apos;s hesitation, as if he&apos;d known the answer as a matter of course. </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Good guess.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;I wasn&apos;t guessing,&quot; he said. &quot;Not exactly.&quot; </text:span></text:span></text:p>
@@ -923,7 +1026,7 @@
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">He nodded. &quot;It was a bit like the other night. You know, a dream.&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Do you often dream things that are going to happen?&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Sometimes.&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;How are you on racing results?&quot; </text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;How are you on racing results?&quot; </text:span></text:span><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T11">Got to be worth a try</text:span></text:span><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">, Jane thought.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">He smiled wanly. &quot;Nothing yet.&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Can&apos;t win &apos;em all.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;I&apos;d like to take you home with me,&quot; he said quietly.</text:span></text:span></text:p>
@@ -934,14 +1037,14 @@
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8"><text:s/>&quot;Did you dream that as well?&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">He was blushing. She liked that. She&apos;d never been out with a man who blushed.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;It&apos;s all right,&quot; she said. &quot;You&apos;re forgiven.&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:soft-page-break/><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">He didn&apos;t take her home with him that night but she did let him kiss her at the bus stop. Although he was a lot taller than her it didn&apos;t feel at all awkward. It felt surprisingly good, and she wasn&apos;t even all that drunk.</text:span></text:span></text:p>
-   <text:p text:style-name="Opening_20_para"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">The next day he called her again.</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">He didn&apos;t take her home with him that night but she did let him kiss her at the bus stop. Although he was a lot taller than her it didn&apos;t feel at all awkward. It felt surprisingly good, and she wasn&apos;t even all that drunk.</text:span></text:span></text:p>
+   <text:p text:style-name="Opening_20_para"><text:soft-page-break/><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">The next day he called her again.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;I&apos;ve been thinking about you,&quot; he said.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Nice thoughts, I hope.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Very nice thoughts.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Down, boy.&quot; To her slight surprise, she was enjoying this.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;What are you doing for your birthday?&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T11">Cream cakes for all the girls at the office, down the pub after work and a God-awful hangover the next day, as per usual.</text:span></text:span><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8"> &quot;Nothing much.&quot; </text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T11">Cream cakes for all the girls at the office, down the pub after work and a God-awful hangover the next day, just like last year.</text:span></text:span><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8"> &quot;Nothing much.&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Could I see you?&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8"><text:s/>&quot;Maybe.&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Buy you dinner?&quot;</text:span></text:span></text:p>
@@ -957,9 +1060,9 @@
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Okay. I&apos;ll give you a ring when I&apos;ve confirmed the booking.&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Great.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">When she went back into the sitting-room her flatmates abruptly fell silent. She felt herself blushing and was immediately furious with herself. </text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:soft-page-break/><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Looks like rain again,&quot; Donna said. </text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Looks like rain again,&quot; Donna said. </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Have you two been talking about me?&quot; </text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Do I look like that kind of girl?&quot; said Sue archly. </text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:soft-page-break/><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Do I look like that kind of girl?&quot; said Sue archly. </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Yes.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Don&apos;t be so uptight. Here, you couldn&apos;t lend me a pair of tights, could you? &quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">“No.&quot; Jane went off to her own room, unreasonably angry.</text:span></text:span></text:p>
@@ -1017,7 +1120,7 @@
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">He shrugged. &quot;My spies are everywhere.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Don&apos;t piss me about, Michael. This is freaking me out.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Someone told me.&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Who?&quot;</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Who?&quot; Jane demanded.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Nobody you know.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Michael, this isn&apos;t funny. Tell me.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">He looked down, away. The familiar awkwardness reassured her a little. &quot;There are some things about me that are hard to explain.&quot; </text:span></text:span></text:p>
@@ -1027,7 +1130,7 @@
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Look, I know it sounds weird.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;No kidding.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;I get — told things.&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Like in your dreams?&quot;</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">In spite of herself, Jane was intrigued. &quot;Like in your dreams?&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Sort of. More specific. Oh God, how can I explain this? When I first saw you — well, it was like a memory, as if I was living it again.&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;You said: I&apos;ve been here before.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Yes. But although I knew you, I didn&apos;t know anything </text:span></text:span><text:span text:style-name="Font_20_Style36"><text:span text:style-name="T8">about </text:span></text:span><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">you. I knew you were, would be, someone important to me, but I didn&apos;t know your name or your profession or anything like that.&quot;</text:span></text:span></text:p>
@@ -1080,21 +1183,17 @@
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;It&apos;s never been like that before. Not ever.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Opening_20_para"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">Well into their second drink of Friday evening, Jane found courage to venture the question.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Marcie. What was the best sex you ever had?&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">Marcie pondered. &quot;I don&apos;t know. It&apos;s all pretty much the same, isn&apos;t it?&quot; </text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;I used to think so.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">A knowing smile. &quot;Had a good time with Nigel, then?&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Michael.&quot; Jane took a swallow of wine. &quot;I wouldn&apos;t call it a good time exactly.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Make your mind up, girl. Hot or not?&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;It was different, that&apos;s all.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Here, he&apos;s not into anything kinky, is he?&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;No, not like that.&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Well, then?&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;I don&apos;t know.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Thought he might be a bit weird. It&apos;s the quiet ones you want to watch, I always say so.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">Jane finished her drink. &quot;Your round.&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">While Marcie was at the bar Jane&apos;s mobile rang, which was almost unheard-of. Indeed it was only ever her mother who called it – Jane suspected she was checking that she had it with her, because it had been her mother&apos;s idea to get it and Jane hated the thing. It was </text:span></text:span><text:soft-page-break/><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">supposed to be useful in an emergency, such as being attacked in an alley (Jane&apos;s mother supposed Camden to be a hotbed of violent crime). If she ever had been attacked in an alley, Jane thought her best bet was to whack her assailant over the head with the wretched object. It was certainly heavy enough to inflict some damage.</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">While Marcie was at the bar Jane&apos;s mobile rang, which was almost unheard-of. Indeed it was only ever her mother who called it – Jane suspected she was checking that she had it with her, because it had been her mother&apos;s idea to get it and Jane hated the thing. It was supposed to be useful in an emergency, such as being attacked in an alley (Jane&apos;s mother supposed Camden to be a hotbed of violent crime). If she ever had been attacked in an alley, Jane thought her best bet was to whack her assailant over the head with the wretched object. It was certainly heavy enough to inflict some damage.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">It was Michael.</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;How did you get this number? — No, don&apos;t tell me, let me guess.&quot; </text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:soft-page-break/><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;How did you get this number? — No, don&apos;t tell me, let me guess.&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">He was apologetic, which at least seemed to be normal for him. </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Is it a bad time to call?&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;No, it&apos;s fine.&quot;</text:span></text:span></text:p>
@@ -1114,10 +1213,10 @@
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;No. No, it&apos;s okay. Just a bit spooky, that&apos;s all.&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;I&apos;ve missed you.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Me too.&quot; Jane was feeling slightly sick. </text:span></text:span><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T10">I must eat something, she thought. Anything. Just give me carbohydrates.</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:soft-page-break/><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Have you had anything to eat yet?&quot; </text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Have you had anything to eat yet?&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Now you&apos;re a bloody mind-reader.&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;I was just guessing, honestly.&quot; </text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;No, I&apos;ve just got in. I&apos;m starving.&quot; </text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:soft-page-break/><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;No, I&apos;ve just got in. I&apos;m starving.&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Shall I cook you a meal?&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;You can cook as well? Is there </text:span></text:span><text:span text:style-name="Font_20_Style36"><text:span text:style-name="T8">anything </text:span></text:span><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">you can&apos;t do?&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Come over. I&apos;ll make pasta or something. Bring a bottle of wine.&quot;</text:span></text:span></text:p>
@@ -1138,9 +1237,9 @@
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;How do you know it&apos;s an angel?&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;That&apos;s just how I&apos;ve always thought of it. Until I was about ten or eleven I used to think everyone had one.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Not me,&quot; Jane said firmly.</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:soft-page-break/><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;No.&quot; He finished his wine. &quot;It&apos;s only ever told me the truth, and only things I needed to know.&quot;</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;No.&quot; He finished his wine. &quot;It&apos;s only ever told me the truth, and only things I needed to know.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Like my mobile phone number.&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;I missed you,&quot; he said defensively.</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:soft-page-break/><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;I missed you,&quot; he said defensively.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Do you do this to all your girlfriends? This psychic stalker routine?&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8"><text:s/>&quot;It&apos;s not a routine.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;But you must see it&apos;s a bit — off-putting.&quot; </text:span></text:span></text:p>
@@ -1166,7 +1265,7 @@
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;You met her once, actually. In the Queen&apos;s Head. You were trying to chat her friend up, remember?&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;What, that Welsh bird?&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Her friend.&quot;</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:soft-page-break/><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Oh yes. I remember she was with someone but I couldn&apos;t tell you what she looked like. No, hang on. Blonde girl with glasses. Wouldn&apos;t have been too bad without the glasses. Bit on the plump side. Am I right?&quot;</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:soft-page-break/><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Oh yes. I remember she was with someone but I couldn&apos;t tell you what she looked like. No, hang on. Blonde girl with glasses. Wouldn&apos;t have been too bad without the glasses. Nice arse. Am I right?&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Well, she&apos;s blonde and she wears glasses.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;No accounting for tastes.&quot; Tom opened a pot of jam. &quot;No, but good for you, mate. Couldn&apos;t have happened to a nicer bloke.&quot; </text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T8">&quot;Thanks.&quot;</text:span></text:span></text:p>
@@ -1215,8 +1314,7 @@
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T7">Michael sidled in. It was one of his awkward days. &quot;Ready in about fifteen minutes. Hello, Jane. I hope you&apos;re hungry.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T7">&quot;Starving. Your flatmate&apos;s been plying me with drink on an empty stomach.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T7">&quot;I&apos;ll open another bottle,&quot; Tom volunteered, heading for the kitchen.</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T7">Michael took his place beside Jane, uneasily. She took his hand.</text:span></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T7">&quot;What&apos;s the matter?&quot; she asked softly.</text:span></text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T7">Michael took his place beside Jane, uneasily. She took his hand. &quot;What&apos;s the matter?&quot; she asked softly.</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T7">&quot;Nothing.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T7">&quot;Bollocks.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style33"><text:span text:style-name="T7">He stirred. &quot;I don&apos;t know. Just been thinking a lot about stuff. You know.&quot; </text:span></text:span></text:p>
@@ -1924,9 +2022,9 @@
    <text:p text:style-name="Letter"><text:span text:style-name="Font_20_Style44"><text:span text:style-name="T21"/></text:span></text:p>
    <text:p text:style-name="Letter"><text:span text:style-name="Font_20_Style44"><text:span text:style-name="T7">Michel,</text:span></text:span></text:p>
    <text:p text:style-name="Letter"><text:span text:style-name="Font_20_Style44"><text:span text:style-name="T7">Still no word from you: I don&apos;t know if you&apos;re alive or dead. Why are you pushing me away from you like this? What have I done? <text:s/>Every night I pray to God and find no answer.</text:span></text:span></text:p>
-   <text:list xml:id="list56215869" text:style-name="L1">
+   <text:list xml:id="list2177054667" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P14"><text:span text:style-name="Font_20_Style44"><text:span text:style-name="T7">If you don&apos;t come home soon I am afraid of what may happen. <text:s/>I have only so much strength. I know you are on business but there are some things more important than that. <text:s/>If you can&apos;t come home, at least call. Michel, do I have to beg for your love? Very well: I beg you.</text:span></text:span></text:p>
+     <text:p text:style-name="P15"><text:span text:style-name="Font_20_Style44"><text:span text:style-name="T7">If you don&apos;t come home soon I am afraid of what may happen. <text:s/>I have only so much strength. I know you are on business but there are some things more important than that. <text:s/>If you can&apos;t come home, at least call. Michel, do I have to beg for your love? Very well: I beg you.</text:span></text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Letter"><text:span text:style-name="Font_20_Style44"><text:span text:style-name="T7">Madeleine</text:span></text:span></text:p>
@@ -2567,7 +2665,7 @@
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;That&apos;s not the point. It&apos;s the principle of the thing. If you&apos;re going to dump someone you should do it face to face if you can, or at least phone them.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;Well, if you insist I&apos;ll phone her. But I won&apos;t enjoy it.&quot;</text:span></text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">&quot;Who said anything about enjoying it? These things just have to be done sometimes.&quot;</text:span></text:span></text:p>
-   <text:list xml:id="list1874384259" text:style-name="L2">
+   <text:list xml:id="list1297208080" text:style-name="L2">
     <text:list-item>
      <text:p text:style-name="P12"><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">Reluctantly Tom agreed. </text:span></text:span><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T27">The trouble with Jane</text:span></text:span><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">, he thought,</text:span></text:span><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T27"> is that she won&apos;t let you get away with anything</text:span></text:span><text:span text:style-name="Font_20_Style19"><text:span text:style-name="T25">. In theory this was one of her good points. Well: if he had enough to drink first even Anna could be faced. And Jane was right: it had to be done.</text:span></text:span></text:p>
     </text:list-item>
