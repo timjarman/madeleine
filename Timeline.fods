@@ -13,8 +13,8 @@
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="Sheet1">
-       <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">18</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">3</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -57,7 +57,7 @@
   <config:config-item-set config:name="ooo:configuration-settings">
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">hgH+/1N0eWx1cy1QaG90by1SMjQwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpTdHlsdXMtUGhvdG8tUjI0MAAAAAAAAAAAAAAWAAMAqAAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9U3R5bHVzLVBob3RvLVIyNDAKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKbWFyZ2luZGFqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4RGF0YQpQYWdlU2l6ZTpBNAAAEgBDT01QQVRfRFVQTEVYX01PREUOAERVUExFWF9VTktOT1dO</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">mQH+/1N0eWx1cy1QaG90by1SMjQwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpTdHlsdXMtUGhvdG8tUjI0MAAAAAAAAAAAAAAWAAMAuwAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9U3R5bHVzLVBob3RvLVIyNDAKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKbWFyZ2luZGFqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4RGF0YQpQYWdlU2l6ZTpBNABJbnB1dFNsb3Q6U3RhbmRhcmQAABIAQ09NUEFUX0RVUExFWF9NT0RFDgBEVVBMRVhfVU5LTk9XTg==</config:config-item>
    <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="IsDocumentShared" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
@@ -133,26 +133,26 @@
   </style:style>
  </office:styles>
  <office:automatic-styles>
-  <style:style style:name="co1" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.143cm"/>
-  </style:style>
-  <style:style style:name="co2" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="2.124cm"/>
-  </style:style>
-  <style:style style:name="co3" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="11.818cm"/>
-  </style:style>
   <style:style style:name="co4" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm"/>
   </style:style>
-  <style:style style:name="ro1" style:family="table-row">
-   <style:table-row-properties style:row-height="0.427cm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  <style:style style:name="co2" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.143cm"/>
   </style:style>
-  <style:style style:name="ro2" style:family="table-row">
-   <style:table-row-properties style:row-height="0.446cm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  <style:style style:name="co3" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.124cm"/>
+  </style:style>
+  <style:style style:name="co5" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="11.818cm"/>
   </style:style>
   <style:style style:name="ro3" style:family="table-row">
    <style:table-row-properties style:row-height="0.452cm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro2" style:family="table-row">
+   <style:table-row-properties style:row-height="0.427cm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro4" style:family="table-row">
+   <style:table-row-properties style:row-height="0.446cm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ta1" style:family="table" style:master-page-name="Default">
    <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
@@ -206,7 +206,7 @@
      <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2014-07-27">00/00/0000</text:date>, <text:time>00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2014-08-10">00/00/0000</text:date>, <text:time>00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -219,11 +219,11 @@
  <office:body>
   <office:spreadsheet>
    <table:table table:name="Sheet1" table:style-name="ta1">
-    <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co5" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co4" table:number-columns-repeated="1021" table:default-cell-style-name="Default"/>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce1" office:value-type="string">
       <text:p>Year</text:p>
      </table:table-cell>
@@ -235,7 +235,7 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce1" table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce2" office:value-type="float" office:value="1965">
       <text:p>1965</text:p>
      </table:table-cell>
@@ -247,19 +247,19 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce2" table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce2" office:value-type="float" office:value="1970">
       <text:p>1970</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce2" office:value-type="string">
-      <text:p>January</text:p>
+      <text:p>October</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce2" office:value-type="string">
       <text:p>Jane born</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce2" table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce2" office:value-type="float" office:value="1987">
       <text:p>1987</text:p>
      </table:table-cell>
@@ -271,7 +271,7 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce2" table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce2" office:value-type="float" office:value="1989">
       <text:p>1989</text:p>
      </table:table-cell>
@@ -283,7 +283,7 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce2" table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce2" office:value-type="float" office:value="1990">
       <text:p>1990</text:p>
      </table:table-cell>
@@ -295,7 +295,7 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce2" table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce2" office:value-type="float" office:value="1991">
       <text:p>1991</text:p>
      </table:table-cell>
@@ -307,7 +307,7 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce2" table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce2"/>
      <table:table-cell table:style-name="ce2" office:value-type="string">
       <text:p>May?</text:p>
@@ -317,7 +317,7 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce2" table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
+    <table:table-row table:style-name="ro4">
      <table:table-cell table:style-name="ce2"/>
      <table:table-cell table:style-name="ce2" office:value-type="string">
       <text:p>August</text:p>
@@ -327,14 +327,14 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce2" table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce2" table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce2" office:value-type="string">
       <text:p>Michael&apos;s final exams (4-year course)</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce2" table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
+    <table:table-row table:style-name="ro4">
      <table:table-cell table:style-name="ce2" office:value-type="float" office:value="1992">
       <text:p>1992</text:p>
      </table:table-cell>
@@ -346,7 +346,7 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce1" table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="float" office:value="1993">
       <text:p>1993</text:p>
      </table:table-cell>
@@ -358,14 +358,14 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce1" table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro2">
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell office:value-type="string">
       <text:p>Madeleine and Michael split up over Marcel</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro2">
      <table:table-cell/>
      <table:table-cell office:value-type="string">
       <text:p>late</text:p>
@@ -375,7 +375,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro2">
      <table:table-cell/>
      <table:table-cell office:value-type="string">
       <text:p>winter</text:p>
@@ -385,7 +385,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="float" office:value="1995">
       <text:p>1995</text:p>
      </table:table-cell>
@@ -397,7 +397,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro2">
      <table:table-cell/>
      <table:table-cell office:value-type="string">
       <text:p>September?</text:p>
@@ -407,7 +407,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
+    <table:table-row table:style-name="ro4">
      <table:table-cell office:value-type="float" office:value="1996">
       <text:p>1996</text:p>
      </table:table-cell>
@@ -419,7 +419,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="float" office:value="1997">
       <text:p>1997</text:p>
      </table:table-cell>
@@ -431,7 +431,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="float" office:value="1998">
       <text:p>1998</text:p>
      </table:table-cell>
@@ -443,14 +443,14 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro2">
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell office:value-type="string">
       <text:p>Their son is conceived in California</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro2">
      <table:table-cell/>
      <table:table-cell office:value-type="string">
       <text:p>December</text:p>
@@ -460,7 +460,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="float" office:value="2001">
       <text:p>2001</text:p>
      </table:table-cell>
@@ -472,7 +472,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="float" office:value="2008">
       <text:p>2008</text:p>
      </table:table-cell>
@@ -484,7 +484,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro2">
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell office:value-type="string">
       <text:p>[NOVEL ENDS]</text:p>
